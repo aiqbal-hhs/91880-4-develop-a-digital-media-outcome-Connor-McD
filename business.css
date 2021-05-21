@@ -1,0 +1,17 @@
+body {background-color: black; 
+    color: floralwhite; }
+
+html {font-size: 40px;}
+
+h1 {border: 8px inset   #ff91a4;
+margin: auto;
+height: auto;
+width: 800px;  
+box-shadow: 0 0 50px 0 grey; }
+html { text-align: center;
+}
+
+a:hover {
+  color: ;
+text-decoration: underline;
+}

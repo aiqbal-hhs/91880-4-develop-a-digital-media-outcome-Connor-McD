@@ -1,0 +1,21 @@
+body {background-color: darkcyan; 
+    color: floralwhite; }
+
+html {font-size: 30px;}
+
+h1 {border: 8px inset purple;
+margin: auto;
+height: auto;
+width: 800px;
+box-shadow: 0 0 15px 0 grey; }
+
+
+a:hover {
+  color: purple;
+text-decoration: underline;
+}
+    
+
+html { text-align: center;
+}
+
